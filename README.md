@@ -9,3 +9,7 @@
 5. Öffne die URL http://localhost:8080 in deinem Browser
 6. Du solltest eine Installationsseite mit Sprachauswahl sehen. Warte auf
    weitere Infos vom Workshop-Leiter.
+
+## Infos
+
+- Basierend auf https://hub.docker.com/_/wordpress
